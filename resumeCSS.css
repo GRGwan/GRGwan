@@ -1,5 +1,5 @@
 @CHARSET "ISO-8859-1";
 
 * {
-	font = "Calibri"
-};
+	font-family: Calibri, Sans-serif;
+}
